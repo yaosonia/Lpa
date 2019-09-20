@@ -5,6 +5,8 @@ YAO Sonia
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/c7ebbf20e6152b6600c1/maintainability)](https://codeclimate.com/github/yaosonia/Lpa/maintainability)
+
 Things you may want to cover:
 
 * Ruby version
@@ -24,3 +26,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
